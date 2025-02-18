@@ -1,0 +1,5 @@
+### Testar o endpoint de processamento
+POST http://localhost:8000/process
+Content-Type: application/json
+
+[]
